@@ -1,0 +1,24 @@
+{
+    "ru": {
+        "help": "help команда",
+        "start": "start команда",
+        "language": "Язык: 🇷🇺Русский🇷🇺",
+        "settings": "Настройки",
+        "menu": "Меню ",
+        "support": "Напишите ваше сообщение поддержке (/cancel для отмены)",
+        "support_finish": "Сообщение отправлено",
+        "support_cancel": "Запрос отменён",
+        "loading": "Загрузка..."
+    },
+    "en": {
+        "help": "help command",
+        "start": "start command",
+        "language": "Language: 🇬🇧English🇬🇧",
+        "settings": "Settings",
+        "menu": "Menu ",
+        "support": "Write your message to support service (/cancel to cancel)",
+        "support_finish": "Message was sent",
+        "support_cancel": "Request was cancelled",
+        "loading": "Loading..."
+    }
+}
